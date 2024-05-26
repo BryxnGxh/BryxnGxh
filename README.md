@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryan from Malaysia 🇲🇾
+- 👋 Hi, I’m Bryan from KL,Malaysia 🇲🇾
 - 📝 I’m interested in medicine, coding, and tech!
 - 🧠 I’m currently learning medicine, HTML, CSS, Javascript, and React!
 - 📫 You can reach me @ bryangoh276@gmail.com or my instagram @bryxngxh 
